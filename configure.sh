@@ -105,3 +105,8 @@ fi
 EOF
 
 chmod u+x $scriptspath/$scriptbin
+echo ""
+echo "---------------------------------------------------------"
+echo "Add to the keyboard shortcuts this path as print shortcut"
+echo $scriptspath/$scriptbin
+echo "---------------------------------------------------------"
